@@ -1,5 +1,3 @@
-%%writefile calculator_app.py
-
 import streamlit as st
 
 # Calculator Functions
